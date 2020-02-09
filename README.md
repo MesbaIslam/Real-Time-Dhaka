@@ -1,4 +1,4 @@
-# Real-Time-Dhaka
+# Real-Time-Dhaka a machine learning base Android Application
 
 Bangladesh is the ninth most populous and twelfth most densely populated country in the world. In the year of 2012 statics waste generation in Bangladesh is around 22.4 million tons per year. There is an increasing rate of waste generation in Bangladesh and it is projected to reach 47,064 tons per day by 2025. The total waste collection rate in major cities of Bangladesh such as Dhaka is only 37%.On the other hand Road accident also has become a big issue now a days in Bangladesh. At least 7,221 people were killed and 15,466 others injured in 5,514 road crashes in the year of 2018. Besides Dhaka is one of the most corrupted cities in the world. It has high crime rates like robbing, stealing, eve teasing,
 To Solve prevent and reduce all these issue and to make the city livable we are going to develop an application which will make the city life easier and safe.
